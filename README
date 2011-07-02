@@ -20,7 +20,7 @@
                                                         |_|
 
 
-  CoffeeScript is a little language that compiles into JavaScript.
+  CoffeeScript-Lua is a little language that compiles into Lua.
 
   Install Node.js, and then the CoffeeScript compiler:
   sudo bin/cake install
