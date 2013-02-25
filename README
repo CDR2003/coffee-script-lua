@@ -1,3 +1,12 @@
+------------------------------------------------------------------------------
+
+    This project is deprecated.
+    For things like coffeescript for Lua,
+    Please check out this great project: http://moonscript.org
+
+------------------------------------------------------------------------------
+
+
 This is project is forked from coffee-script. See http://coffeescript.org for details.
 
 Since CoffeeScript is such a good language, and Lua is somehow similar to JavaScript, make a compiler that compiles from CoffeeScript to Lua seems a good idea. It can be used in game programming without creating a new language.
